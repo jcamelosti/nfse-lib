@@ -253,5 +253,5 @@ Existem muitos "padrões" diferentes para a emissão de NFSe, além disso, cada 
 - São Joao da Boa Vista (SP)
 
 ## Contato Técnico
--contato@josuecamelo.com
--(62) - 98401-8589
+- contato@josuecamelo.com
+- (62) - 98401-8589
