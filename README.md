@@ -4,8 +4,6 @@ Biblioteca para geração e comunicação da NFSe com as Prefeituras.
 # php-nfse
 **Framework para a integração com os sistemas de Notas Fiscais Eletrônicas de Serviços das Prefeituras Municipais**
 
-*php-nfse* é um framework para geração dos RPS e comunicação das NFSe com as Prefeituras Municipais.
-
 # NOTA IMPORTANTE - LEIA COM MUITA ATENÇÃO
 
 ### As prefeituras **mudam de modelo de NFSe e alteram seu layout livremente e até a forma de acesso aos webservices**, isso é um FATO !!
@@ -13,8 +11,6 @@ Biblioteca para geração e comunicação da NFSe com as Prefeituras.
 >***Pois bem, isso significa que o SEU aplicativo deverá lidar com cada uma dessas particularidades municipio por municipio, e não apenas modelo a modelo.***
 
 Não existe nenhum padrão nacional na definição dos WebServices, e os municipios podem alterar o layout do XML ou o provedor sem qualquer critério e isto pode causar sérios problemas de acesso e validação, pois podemos não ter condições de adequação desse framework, seja devido a alterações técnicas, seja pela imposição de prazos.
-
-Os usuários desse framework devem avaliar quais os riscos e quais são as responsabilidades que está assumindo ao oferecer o produto ao usuário final, que pode **PARAR DE FUNCIONAR A QUALQUER MOMENTO**, pois como dito anteriormente:
 
 **"GARATIMOS O FUNCIONAMENTO DE SUA INTEGRAÇÃO**
 
