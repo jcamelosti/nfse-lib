@@ -252,6 +252,6 @@ Existem muitos "padrões" diferentes para a emissão de NFSe, além disso, cada 
 ### Simpliss Em desenvolvimento
 - São Joao da Boa Vista (SP)
 
-##Contato Técnico
+## Contato Técnico
 -contato@josuecamelo.com
 -(62) - 98401-8589
