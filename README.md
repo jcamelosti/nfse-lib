@@ -8,9 +8,9 @@ Biblioteca para geração e comunicação da NFSe com as Prefeituras.
 
 ### As prefeituras **mudam de modelo de NFSe e alteram seu layout livremente e até a forma de acesso aos webservices**, isso é um FATO !!
 
->***Pois bem, isso significa que o SEU aplicativo deverá lidar com cada uma dessas particularidades municipio por municipio, e não apenas modelo a modelo.***
+>***Porém como nossa lib você não terá surpresar em integrar com os webeservices.***
 
-Não existe nenhum padrão nacional na definição dos WebServices, e os municipios podem alterar o layout do XML ou o provedor sem qualquer critério e isto pode causar sérios problemas de acesso e validação, pois podemos não ter condições de adequação desse framework, seja devido a alterações técnicas, seja pela imposição de prazos.
+Entregamos pronta para uso a lib no padrão composer.
 
 **"GARATIMOS O FUNCIONAMENTO DE SUA INTEGRAÇÃO**
 
